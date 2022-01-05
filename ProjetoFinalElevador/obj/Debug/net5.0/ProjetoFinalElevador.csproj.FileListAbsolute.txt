@@ -1,0 +1,15 @@
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\bin\Debug\net5.0\ProjetoFinalElevador.exe
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\bin\Debug\net5.0\ProjetoFinalElevador.deps.json
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\bin\Debug\net5.0\ProjetoFinalElevador.runtimeconfig.json
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\bin\Debug\net5.0\ProjetoFinalElevador.runtimeconfig.dev.json
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\bin\Debug\net5.0\ProjetoFinalElevador.dll
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\bin\Debug\net5.0\ref\ProjetoFinalElevador.dll
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\bin\Debug\net5.0\ProjetoFinalElevador.pdb
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\obj\Debug\net5.0\ProjetoFinalElevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\obj\Debug\net5.0\ProjetoFinalElevador.AssemblyInfoInputs.cache
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\obj\Debug\net5.0\ProjetoFinalElevador.AssemblyInfo.cs
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\obj\Debug\net5.0\ProjetoFinalElevador.csproj.CoreCompileInputs.cache
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\obj\Debug\net5.0\ProjetoFinalElevador.dll
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\obj\Debug\net5.0\ref\ProjetoFinalElevador.dll
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\obj\Debug\net5.0\ProjetoFinalElevador.pdb
+C:\Users\pczin\source\repos\ProjetoFinalElevador\ProjetoFinalElevador\obj\Debug\net5.0\ProjetoFinalElevador.genruntimeconfig.cache
